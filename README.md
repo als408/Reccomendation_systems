@@ -9,5 +9,7 @@
   @ala
   
 ## SASRC
+  source: https://github.com/kang205/SASRec
+  
   @Michał
   
