@@ -2,14 +2,19 @@
 
 
 ## Dataset train_test split
-@wiktor
+  @wiktor
 
 
 ## MCRS
   @ala
+  @zuza
   
 ## SASRC
   source: https://github.com/kang205/SASRec
   
-  @Michał
+  @michał
+
+
+
+## Metrics and summary 
   
