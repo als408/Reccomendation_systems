@@ -1,4 +1,4 @@
-# Reccomendation_systems
+# Recommendation_systems
 
 
 ## Dataset train_test split
